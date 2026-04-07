@@ -37,8 +37,8 @@
 ### 1️⃣ 克隆项目
 
 ```bash
-git clone https://github.com/your-username/bird-Speech-to-Text.git
-cd bird-Speech-to-Text
+git clone https://github.com/swbird/BirdSTT.git
+cd BirdSTT
 ```
 
 ### 2️⃣ 编译构建
